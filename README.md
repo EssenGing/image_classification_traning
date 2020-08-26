@@ -1,1 +1,1 @@
-# image_classification_traning
+# 画像分類講座
